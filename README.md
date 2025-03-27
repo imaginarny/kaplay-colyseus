@@ -1,4 +1,4 @@
-# KAPLAY + Colyseus
+# KAPLAY + Colyseus Demo
 
 Air Hockey multiplayer example game made using [KAPLAY](https://kaplayjs.com/) and [Colyseus](https://colyseus.io/) Multiplayer Framework.
 
